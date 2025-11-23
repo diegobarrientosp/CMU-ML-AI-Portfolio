@@ -57,11 +57,8 @@ FIFA-End-to-End-Data-Engineering-and-ML-Project/
 ├── models/                 # Saved trained PyTorch model
 │   └── best_model_shallow_4.pt
 │
-├── data/                   # Data link only (no CSVs stored)
-│   └── README.md           # Dataset download link from Kaggle
-│
 ├── README.md               # Project documentation
-└── .gitignore
+
 ```
 
 ---
