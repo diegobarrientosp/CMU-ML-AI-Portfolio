@@ -4,7 +4,9 @@
 
 ## 🚀 **1. Introduction**
 
-This project implements a **complete end-to-end data engineering and machine learning pipeline** using the FIFA-22 player dataset, the goal is to predict player overall ratings using different machine learning models. It covers every major stage of a modern ML system, including:
+This project implements a **production-oriented, end-to-end data engineering and machine learning system**
+using the FIFA-22 player dataset. The objective is to predict player overall ratings while emphasizing
+**scalability, reproducibility, and system-level design**, rather than isolated model training. It covers every major stage of a modern ML system, including:
 
 * Data ingestion & transformation
 * SQL database design and population
@@ -27,8 +29,12 @@ The objective is to demonstrate strong engineering practices for **reliable**, *
 
 ### **🧠 Machine Learning**
 
+🚀 **GPU Acceleration:** Deep learning models were trained using **PyTorch with GPU acceleration**
+to enable efficient experimentation with multiple neural network architectures.
+
 * **PySpark MLlib** — baseline models (Linear Regression, Random Forest)
-* **PyTorch** — GPU-accelerated neural networks with customized architectures
+* **PyTorch** — GPU-accelerated neural network training, enabling rapid experimentation
+with multiple architectures, regularization strategies, and hyperparameters
 
 ### **📊 Additional Libraries**
 
