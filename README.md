@@ -1,2 +1,7 @@
 # CMU-ML-AI-Portfolio
-Portfolio of selected machine learning, data science, and AI assignments and projects completed at Carnegie Mellon University. Includes end-to-end ML pipelines, PySpark processing, predictive modeling, applied deep learning, and Systems &amp; Toolchains engineering work.
+This repository highlights selected **end-to-end machine learning and AI systems**
+developed during my Master’s in Artificial Intelligence Engineering at
+Carnegie Mellon University.
+
+The focus is on **scalable ML pipelines, data engineering, and system-level design**,
+rather than isolated or guided homework assignments.
