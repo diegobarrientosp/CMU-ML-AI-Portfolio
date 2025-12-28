@@ -4,7 +4,7 @@
 
 ## 🚀 **1. Introduction**
 
-This project implements a **complete end-to-end data engineering and machine learning pipeline** using the FIFA-22 player dataset. It covers every major stage of a modern ML system, including:
+This project implements a **complete end-to-end data engineering and machine learning pipeline** using the FIFA-22 player dataset, the goal is to predict player overall ratings using different machine learning models. It covers every major stage of a modern ML system, including:
 
 * Data ingestion & transformation
 * SQL database design and population
